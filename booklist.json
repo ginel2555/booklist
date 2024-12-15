@@ -1,0 +1,144 @@
+{
+  "categories": {
+    "esoteric_studies": {
+      "name": "Esoteric Studies",
+      "books": [
+        {
+          "author": "Anthony Peake",
+          "title": "The Hidden Universe: An Investigation into Non-Human Intelligences"
+        },
+        {
+          "author": "James Francis Cooke",
+          "title": "Unveiled Mysteries: Secrets of The Comte de Saint Germain"
+        },
+        {
+          "author": "Fulcanelli",
+          "title": "Misterul catedralelor"
+        },
+        {
+          "author": "George W Carey",
+          "title": "Zodiac and the Salts of Salvation"
+        },
+        {
+          "author": "Swami Murugesu",
+          "title": "The Science of Mantra"
+        }
+      ]
+    },
+    "consciousness_studies": {
+      "name": "Consciousness and Mind",
+      "books": [
+        {
+          "author": "B. Alan Wallace",
+          "title": "The Attention Revolution: Unlocking the Power of the Focused Mind"
+        },
+        {
+          "author": "Carlos Castaneda",
+          "title": "The Teachings of Don Juan"
+        },
+        {
+          "author": "Donald Hoffman",
+          "title": "The Case Against Reality"
+        },
+        {
+          "author": "Ingo Swann",
+          "title": "Various Works"
+        }
+      ]
+    },
+    "historical_investigations": {
+      "name": "Historical Investigations",
+      "books": [
+        {
+          "author": "Brian Murarescu",
+          "title": "The Immortality Key: The Secret History of the Religion with No Name"
+        },
+        {
+          "author": "Chan Thomas",
+          "title": "Adam and Eve Story"
+        },
+        {
+          "author": "Whitney Webb",
+          "title": "One Nation Under Blackmail"
+        },
+        {
+          "author": "Paul MacKendrick",
+          "title": "The Dacian Stones Speak"
+        }
+      ]
+    },
+    "romanian_studies": {
+      "name": "Romanian Studies",
+      "books": [
+        {
+          "author": "Eugen Comsa",
+          "title": "ISTORIA COMUNITATILOR CULTURII BOIAN"
+        },
+        {
+          "author": "Ilie Mândricel",
+          "title": "Din legendele plaiului"
+        },
+        {
+          "author": "VASILE LOVINESCU",
+          "title": "DACIA HIPERBOREANA"
+        },
+        {
+          "author": "Radu Oltean",
+          "title": "Cetăți, castele și alte fortificații din România (vol. I)"
+        }
+      ]
+    },
+    "philosophical_works": {
+      "name": "Philosophical Works",
+      "books": [
+        {
+          "author": "Charles Eisenstein",
+          "title": "Yoga of Eating"
+        },
+        {
+          "author": "Daniel Quinn",
+          "title": ["Ishmael", "The Story of B"]
+        },
+        {
+          "author": "David Abram",
+          "title": "Becoming Animal"
+        },
+        {
+          "author": "Rene Girard",
+          "title": "Various Works"
+        },
+        {
+          "author": "Rene Guegnon",
+          "title": "Various Works"
+        }
+      ]
+    },
+    "science_fiction": {
+      "name": "Science Fiction",
+      "books": [
+        {
+          "author": "David Gerrold",
+          "title": "The War Against the Chtorr"
+        },
+        {
+          "author": "Peter Watts",
+          "title": "Blindsight"
+        },
+        {
+          "author": "Barry B. Longyear",
+          "title": "Enemy Mine"
+        },
+        {
+          "author": "Anne McCaffery",
+          "title": "Freedom's Landing"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "total_books": 92,
+    "last_updated": "2024-12-15",
+    "categories_count": 6,
+    "description": "A comprehensive collection of interdisciplinary literature focusing on esoteric studies, consciousness research, historical investigations, and philosophical works"
+  }
+}
