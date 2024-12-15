@@ -3,142 +3,74 @@
     "esoteric_studies": {
       "name": "Esoteric Studies",
       "books": [
-        {
-          "author": "Anthony Peake",
-          "title": "The Hidden Universe: An Investigation into Non-Human Intelligences"
-        },
-        {
-          "author": "James Francis Cooke",
-          "title": "Unveiled Mysteries: Secrets of The Comte de Saint Germain"
-        },
-        {
-          "author": "Fulcanelli",
-          "title": "Misterul catedralelor"
-        },
-        {
-          "author": "George W Carey",
-          "title": "Zodiac and the Salts of Salvation"
-        },
-        {
-          "author": "Swami Murugesu",
-          "title": "The Science of Mantra"
-        }
+        {"author": "Anthony Peake", "title": "The Hidden Universe"},
+        {"author": "Fulcanelli", "title": "Misterul catedralelor"},
+        {"author": "Peter Moon", "title": "Transylvanian Sunrise"},
+        {"author": "Wayne Hershel", "title": "The Hidden Records"},
+        {"author": "Gabriel Piedra", "title": "A New Civilization: The Hidden History"}
       ]
     },
-    "consciousness_studies": {
-      "name": "Consciousness and Mind",
+    "consciousness_research": {
+      "name": "Consciousness & Mind",
       "books": [
-        {
-          "author": "B. Alan Wallace",
-          "title": "The Attention Revolution: Unlocking the Power of the Focused Mind"
-        },
-        {
-          "author": "Carlos Castaneda",
-          "title": "The Teachings of Don Juan"
-        },
-        {
-          "author": "Donald Hoffman",
-          "title": "The Case Against Reality"
-        },
-        {
-          "author": "Ingo Swann",
-          "title": "Various Works"
-        }
+        {"author": "B. Alan Wallace", "title": "The Attention Revolution"},
+        {"author": "Carlos Castaneda", "title": "The Teachings of Don Juan"},
+        {"author": "Donald Hoffman", "title": "The Case Against Reality"},
+        {"author": "Neale Donald Walsch", "title": "Conversations with God"}
       ]
     },
-    "historical_investigations": {
-      "name": "Historical Investigations",
+    "historical_analysis": {
+      "name": "Historical Analysis",
       "books": [
-        {
-          "author": "Brian Murarescu",
-          "title": "The Immortality Key: The Secret History of the Religion with No Name"
-        },
-        {
-          "author": "Chan Thomas",
-          "title": "Adam and Eve Story"
-        },
-        {
-          "author": "Whitney Webb",
-          "title": "One Nation Under Blackmail"
-        },
-        {
-          "author": "Paul MacKendrick",
-          "title": "The Dacian Stones Speak"
-        }
+        {"author": "Paul MacKendrick", "title": "The Dacian Stones Speak"},
+        {"author": "Whitney Webb", "title": "One Nation Under Blackmail"},
+        {"author": "Andre Resendez", "title": "Land So Strange"},
+        {"author": "Bernal Diaz del Castillo", "title": "Adevarata istorie a cuceririi Noii Spanii"}
       ]
     },
-    "romanian_studies": {
+    "romanian_heritage": {
       "name": "Romanian Studies",
       "books": [
-        {
-          "author": "Eugen Comsa",
-          "title": "ISTORIA COMUNITATILOR CULTURII BOIAN"
-        },
-        {
-          "author": "Ilie Mândricel",
-          "title": "Din legendele plaiului"
-        },
-        {
-          "author": "VASILE LOVINESCU",
-          "title": "DACIA HIPERBOREANA"
-        },
-        {
-          "author": "Radu Oltean",
-          "title": "Cetăți, castele și alte fortificații din România (vol. I)"
-        }
+        {"author": "Radu Oltean", "title": "Cetăți, castele și alte fortificații din România"},
+        {"author": "Anița Nandriș-Cudla", "title": "20 de ani în Siberia"},
+        {"author": "Emily Gerard", "title": "Transylvania, the land beyond the forest"},
+        {"author": "Mihai Eminescu", "title": "Geniu Pustiu"}
+      ]
+    },
+    "scientific_heterodoxy": {
+      "name": "Alternative Science",
+      "books": [
+        {"author": "Michael Tellinger", "title": "Slave Species of God"},
+        {"author": "Mark Ludwig", "title": "Computer Viruses, Artificial Life and Evolution"},
+        {"author": "Immanuel Velikovsky", "title": "Worlds in Collision"},
+        {"author": "David Livingstone", "title": "Transhumanism: The History of a Dangerous Idea"}
       ]
     },
     "philosophical_works": {
-      "name": "Philosophical Works",
+      "name": "Philosophy & Thought",
       "books": [
-        {
-          "author": "Charles Eisenstein",
-          "title": "Yoga of Eating"
-        },
-        {
-          "author": "Daniel Quinn",
-          "title": ["Ishmael", "The Story of B"]
-        },
-        {
-          "author": "David Abram",
-          "title": "Becoming Animal"
-        },
-        {
-          "author": "Rene Girard",
-          "title": "Various Works"
-        },
-        {
-          "author": "Rene Guegnon",
-          "title": "Various Works"
-        }
+        {"author": "Daniel Quinn", "title": "Ishmael"},
+        {"author": "Charles Eisenstein", "title": "Yoga of Eating"},
+        {"author": "Erich Fromm", "title": "The Forgotten Language"},
+        {"author": "Jeremy Locke", "title": "The End of All Evil"}
       ]
     },
-    "science_fiction": {
-      "name": "Science Fiction",
+    "literary_fiction": {
+      "name": "Literary Works",
       "books": [
-        {
-          "author": "David Gerrold",
-          "title": "The War Against the Chtorr"
-        },
-        {
-          "author": "Peter Watts",
-          "title": "Blindsight"
-        },
-        {
-          "author": "Barry B. Longyear",
-          "title": "Enemy Mine"
-        },
-        {
-          "author": "Anne McCaffery",
-          "title": "Freedom's Landing"
-        }
+        {"author": "Herman Hesse", "title": "Narcissus and Goldmund"},
+        {"author": "John Crowley", "title": "Little, Big"},
+        {"author": "Milorad Pavic", "title": "Dictionary of the Khazars"},
+        {"author": "Thomas Pynchon", "title": "The Crying of Lot 49"}
       ]
     }
   },
   "metadata": {
     "total_books": 92,
-    "last_updated": "2024-12-15",
-    "categories_count": 6,
-    "description": "A comprehensive collection of interdisciplinary literature focusing on esoteric studies, consciousness research, historical investigations, and philosophical works"
+    "categories": 7,
+    "primary_languages": ["English", "Romanian"],
+    "date_compiled": "2024-12-15",
+    "collection_focus": "Interdisciplinary studies spanning esoteric knowledge, consciousness research, and historical analysis",
+    "organization_schema": "Thematic categorization with cross-referencing capabilities"
   }
 }
